@@ -141,4 +141,4 @@ alternatively we can control the packet rate
 we can control probing parallelization using `--min-parallelism <numprobes>`.
 
 
-[Back to Blogs](./blog.md)
+[Back to Blogs](/blog)
