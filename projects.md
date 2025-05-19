@@ -8,5 +8,7 @@ Solved web security labs on OWASP Juice Shop, identifying security vulnerabiliti
 
 ---
 
+* [Google Docs Link](https://docs.google.com/document/d/1MMWB686jOkW0t0g0HA9SG2Tk0M5Z6TypGokneRTFXFI/)
+
 [Back to About Me](./)
 
